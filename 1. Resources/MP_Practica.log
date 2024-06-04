@@ -1,0 +1,7 @@
+﻿  Partida.cpp
+C:\Users\joaqu\Desktop\Tetris_2\0. C++ Code\Logic Game\Partida.cpp(55,44): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\joaqu\Desktop\Tetris_2\0. C++ Code\Logic Game\Partida.cpp(68,55): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joaqu\Desktop\Tetris_2\0. C++ Code\Logic Game\Partida.cpp(135,32): warning C4305: '*=': truncamiento de 'double' a 'float'
+C:\Users\joaqu\Desktop\Tetris_2\0. C++ Code\Logic Game\Partida.cpp(283,90): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\joaqu\Desktop\Tetris_2\0. C++ Code\Logic Game\Partida.cpp(285): warning C4715: 'Partida::actualitzaTest': no todas las rutas de acceso de control devuelven un valor
+  MP_Practica.vcxproj -> C:\Users\joaqu\Desktop\Tetris_2\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
